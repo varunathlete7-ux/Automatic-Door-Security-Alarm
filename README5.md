@@ -27,7 +27,7 @@ A simple LCD display project using an **Arduino Uno and 16×2 LCD module**. The 
 
 **RESULT**
 
-**![][image1]**
+**![](result)
 
 ### **Notes**
 
